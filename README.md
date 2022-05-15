@@ -5,6 +5,7 @@ O objetivo era fazer com que a interface do site ficasse parecida com um jogo, c
 
 - Projeto Original: https://devemdobro.github.io/projeto-marvel-mapadev-week/
 - Meu projeto https://fernando-oliver.github.io/projeto-mortal-kombat/
+
 Com uma proposta do projeto original feito com os personagens da Marvel, desenvolvi uma outra proposta com os personagens do jogo mortal kombat.
 
   
